@@ -1,0 +1,3 @@
+include ':simpleRec'
+include ':app'
+rootProject.name = "SimpleRecylerView"
