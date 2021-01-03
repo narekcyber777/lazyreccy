@@ -32,4 +32,5 @@ public interface LazyRecyclerView {
       LazyRecyclerView smoothScrollByXY(int x, int y);
 
       LazyRecyclerView lazyRemoveAdapter();
+
 }

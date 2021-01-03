@@ -151,7 +151,10 @@ public class SimpleRecyclerViewManager {
         @Override
         public LazyRecyclerView lazyRemoveAdapter() {
             setAdapter(null);
+
             return this;
         }
+
+
     }
 }
