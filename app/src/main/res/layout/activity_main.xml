@@ -15,5 +15,12 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <com.example.simplerec.LazyRecView
+        android:id="@+id/rec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.example.simplerec.LazyRecView>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
